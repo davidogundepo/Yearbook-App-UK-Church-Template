@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "986395594096",
+    "project_id": "uk-church-template",
+    "storage_bucket": "uk-church-template.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986395594096:android:a8299462961092d16593b5",
+        "android_client_info": {
+          "package_name": "com.example.uk_church_template"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986395594096-t5a2gl2gao0ju7cj2h8hrc9s5rqq4r4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uk_church_template",
+            "certificate_hash": "35a7de7f844c9b3817d4f98afe7048aeb8437cef"
+          }
+        },
+        {
+          "client_id": "986395594096-iopmr8672buib5b7kks1c9lt6d5vi5ga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeDSYO8CZ6OJnQiMaRmDDhAeLPC1ppCjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986395594096-iopmr8672buib5b7kks1c9lt6d5vi5ga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

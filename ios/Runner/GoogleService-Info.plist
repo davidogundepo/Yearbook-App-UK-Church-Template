@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>986395594096-mh5lcn5c7s0gv9a2ikspmk4opagbd6ip.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.986395594096-mh5lcn5c7s0gv9a2ikspmk4opagbd6ip</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>986395594096-t5a2gl2gao0ju7cj2h8hrc9s5rqq4r4m.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAYBMU-X2udyN40wYZ4VTIt6uCWJd_epeY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>986395594096</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.ukChurchTemplate</string>
+	<key>PROJECT_ID</key>
+	<string>uk-church-template</string>
+	<key>STORAGE_BUCKET</key>
+	<string>uk-church-template.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:986395594096:ios:e67ba7f71d15672f6593b5</string>
+</dict>
+</plist>
