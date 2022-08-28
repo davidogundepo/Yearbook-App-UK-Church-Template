@@ -243,7 +243,7 @@ class _SideBarState extends State<SideBar> with SingleTickerProviderStateMixin<S
                                 },
                                 child: Align(
                                   alignment: Alignment.centerLeft,
-                                  child: MenuItem(
+                                  child: MenuItems(
                                     icon: MdiIcons.naturePeople,
                                     title: pastorsTitle,
 
@@ -262,8 +262,8 @@ class _SideBarState extends State<SideBar> with SingleTickerProviderStateMixin<S
                                 },
                                 child: Align(
                                   alignment: Alignment.centerLeft,
-                                  child: MenuItem(
-                                    icon: MdiIcons.hand,
+                                  child: MenuItems(
+                                    icon: MdiIcons.handshake,
                                     title: choirTitle,
                                   ),
                                 ),
@@ -280,7 +280,7 @@ class _SideBarState extends State<SideBar> with SingleTickerProviderStateMixin<S
                                 },
                                 child: Align(
                                   alignment: Alignment.centerLeft,
-                                  child: MenuItem(
+                                  child: MenuItems(
                                     icon: MdiIcons.microphone,
                                     title: mediaUnitTitle,
                                   ),
@@ -298,7 +298,7 @@ class _SideBarState extends State<SideBar> with SingleTickerProviderStateMixin<S
                                 },
                                 child: Align(
                                   alignment: Alignment.centerLeft,
-                                  child: MenuItem(
+                                  child: MenuItems(
                                     icon: MdiIcons.pillar,
                                     title: sanctuaryKeepersTitle,
                                   ),
@@ -316,7 +316,7 @@ class _SideBarState extends State<SideBar> with SingleTickerProviderStateMixin<S
                                 },
                                 child: Align(
                                   alignment: Alignment.centerLeft,
-                                  child: MenuItem(
+                                  child: MenuItems(
                                     icon: MdiIcons.walk,
                                     title: evangelicalUnitTitle,
                                   ),
@@ -334,7 +334,7 @@ class _SideBarState extends State<SideBar> with SingleTickerProviderStateMixin<S
                                 },
                                 child: Align(
                                   alignment: Alignment.centerLeft,
-                                  child: MenuItem(
+                                  child: MenuItems(
                                     icon: MdiIcons.pacMan,
                                     title: noblemenNetworkTitle,
                                   ),
@@ -360,7 +360,7 @@ class _SideBarState extends State<SideBar> with SingleTickerProviderStateMixin<S
                                   },
                                   child: Align(
                                     alignment: Alignment.center,
-                                    child: MenuItem(
+                                    child: MenuItems(
                                       icon: MdiIcons.logout,
                                       title: exitAppStatement,
                                     ),
