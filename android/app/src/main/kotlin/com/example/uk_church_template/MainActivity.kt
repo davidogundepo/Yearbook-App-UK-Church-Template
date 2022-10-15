@@ -1,4 +1,4 @@
-package com.example.uk_church_template
+package com.icdatinnovations.uk_church_template
 
 import io.flutter.embedding.android.FlutterActivity
 import io.flutter.embedding.android.SplashScreen
